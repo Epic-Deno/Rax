@@ -1,0 +1,15 @@
+.list-item {
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+    height: 100rpx;
+}
+
+.list-do {
+    width: 20rpx;
+    height: 20rpx;
+    margin-right: 20rpx;
+    border-radius: 10rpx;
+    background-color:  #333;
+}
